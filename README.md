@@ -1,2 +1,2 @@
 # IUM
-[embed]Relazione.pdf[/embed]
+Open "Relazione.pdf" file for info
